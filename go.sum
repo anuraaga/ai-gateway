@@ -190,6 +190,8 @@ github.com/blizzy78/varnamelen v0.8.0 h1:oqSblyuQvFsW1hbBHh1zfwrKe3kcSj0rnXkKzsQ
 github.com/blizzy78/varnamelen v0.8.0/go.mod h1:V9TzQZ4fLJ1DSrjVDfl89H7aMnTvKkApdHeyESmyR7k=
 github.com/bmatcuk/doublestar/v2 v2.0.4 h1:6I6oUiT/sU27eE2OFcWqBhL1SwjyvQuOssxT4a1yidI=
 github.com/bmatcuk/doublestar/v2 v2.0.4/go.mod h1:QMmcs3H2AUQICWhfzLXz+IYln8lRQmTZRptLie8RgRw=
+github.com/bmatcuk/doublestar/v4 v4.8.1 h1:54Bopc5c2cAvhLRAzqOGCYHYyhcDHsFF4wWIR5wKP38=
+github.com/bmatcuk/doublestar/v4 v4.8.1/go.mod h1:xBQ8jztBU6kakFMg+8WGxn0c6z1fTSPVIjEY1Wr7jzc=
 github.com/bombsimon/wsl/v4 v4.6.0 h1:ew2R/N42su553DKTYqt3HSxaQN+uHQPv4xZ2MBmwaW4=
 github.com/bombsimon/wsl/v4 v4.6.0/go.mod h1:uV/+6BkffuzSAVYD+yGyld1AChO7/EuLrCF/8xTiapg=
 github.com/breml/bidichk v0.3.3 h1:WSM67ztRusf1sMoqH6/c4OBCUlRVTKq+CbSeo0R17sE=
@@ -316,8 +318,8 @@ github.com/dustin/go-humanize v1.0.1 h1:GzkhY7T5VNhEkwH0PVJgjz+fX1rhBrR7pRT3mDkp
 github.com/dustin/go-humanize v1.0.1/go.mod h1:Mu1zIs6XwVuF/gI1OepvI0qD18qycQx+mFykh5fBlto=
 github.com/editorconfig-checker/editorconfig-checker/v3 v3.2.0 h1:uH7cZAGj3I8rS57oVy6qGnSDPbSyCImb8Tr4nWjji2g=
 github.com/editorconfig-checker/editorconfig-checker/v3 v3.2.0/go.mod h1:pyykRV3+SalXDuX1fAN7e5THne4+asZu/FhP5dXiWSo=
-github.com/editorconfig/editorconfig-core-go/v2 v2.6.2 h1:dKG8sc7n321deIVRcQtwlMNoBEra7j0qQ8RwxO8RN0w=
-github.com/editorconfig/editorconfig-core-go/v2 v2.6.2/go.mod h1:7dvD3GCm7eBw53xZ/lsiq72LqobdMg3ITbMBxnmJmqY=
+github.com/editorconfig/editorconfig-core-go/v2 v2.6.3 h1:XVUp6qW3BIkmM3/1EkrHpa6bL56APOynfXcZEmIgOhs=
+github.com/editorconfig/editorconfig-core-go/v2 v2.6.3/go.mod h1:ThHVc+hqbUsmE1wmK/MASpQEhCleWu1JDJDNhUOMy0c=
 github.com/elastic/crd-ref-docs v0.1.0 h1:Cr5kz89QB3Iuuj7dhAfLMApCrChEGAaIBTxGk/xuRKw=
 github.com/elastic/crd-ref-docs v0.1.0/go.mod h1:X83mMBdJt05heJUYiS3T0yJ/JkCuliuhSUNav5Gjo/U=
 github.com/elazarl/goproxy v0.0.0-20180725130230-947c36da3153/go.mod h1:/Zj4wYkgs4iZTTu3o/KG3Itv/qCCa8VVMlb3i9OVuzc=
@@ -1127,6 +1129,8 @@ github.com/tetafro/godot v1.5.0 h1:aNwfVI4I3+gdxjMgYPus9eHmoBeJIbnajOyqZYStzuw=
 github.com/tetafro/godot v1.5.0/go.mod h1:2oVxTBSftRTh4+MVfUaUXR6bn2GDXCaMcOG4Dk3rfio=
 github.com/tetratelabs/func-e v1.1.5 h1:hE9Y3NsOCxSdJMXwtJriQC2+UP0X0ccxwePy6/Hgwd4=
 github.com/tetratelabs/func-e v1.1.5/go.mod h1:FDAoUIMZc6Jkc0oEsbd2aTWRQhWDVrKhKy+yAdMfZbg=
+github.com/tetratelabs/wazero v1.9.0 h1:IcZ56OuxrtaEz8UYNRHBrUa9bYeX9oVY93KspZZBf/I=
+github.com/tetratelabs/wazero v1.9.0/go.mod h1:TSbcXCfFP0L2FGkRPxHphadXPjo1T6W+CseNNY7EkjM=
 github.com/tidwall/gjson v1.14.2/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
 github.com/tidwall/gjson v1.18.0 h1:FIDeeyB800efLX89e5a8Y0BNH+LOngJyGrIWxG2FKQY=
 github.com/tidwall/gjson v1.18.0/go.mod h1:/wbyibRr2FHMks5tjHJ5F8dMZh3AcwJEMf5vlfC0lxk=
@@ -1178,6 +1182,8 @@ github.com/vbatts/tar-split v0.12.1/go.mod h1:eF6B6i6ftWQcDqEn3/iGFRFRo8cBIMSJVO
 github.com/vektah/gqlparser v1.1.2/go.mod h1:1ycwN7Ij5njmMkPPAOaRFY4rET2Enx7IkVv3vaXspKw=
 github.com/vladopajic/go-test-coverage/v2 v2.11.4 h1:5wNZhy1c1eXofx8jzKsn8v/AHD5fjrSiEe2qNds1E/E=
 github.com/vladopajic/go-test-coverage/v2 v2.11.4/go.mod h1:zvE/+qGOTE5PL9KliZ10sRHT74P9Ghn5y0X0k/+0KnI=
+github.com/wasilibs/go-prettier/v3 v3.6.3-0.20250722021946-4076a6085a9e h1:+1y+INPIBQcRsa79pZFhiMFYawvijPYXWQjSM+Qawns=
+github.com/wasilibs/go-prettier/v3 v3.6.3-0.20250722021946-4076a6085a9e/go.mod h1:VnsQCPvXPnfiYNQW9q/RMVMZkzff5p56Uo0Kfky3dpE=
 github.com/x448/float16 v0.8.4 h1:qLwI1I70+NjRFUR3zs1JPUCgaCXSh3SW62uAKT1mSBM=
 github.com/x448/float16 v0.8.4/go.mod h1:14CWIYCyZA/cWjXOioeEpHeN/83MdbZDRQHoFcYsOfg=
 github.com/xanzy/ssh-agent v0.3.3 h1:+/15pJfg/RsTxqYcX6fHqOXZwwMP+2VyYWJeWM2qQFM=

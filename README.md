@@ -1,9 +1,10 @@
 # Envoy AI Gateway
+
 Envoy AI Gateway is an open source project for using [Envoy Gateway](https://github.com/envoyproxy/gateway) to handle request traffic from application clients to Generative AI services.
 
 ## Contact
 
-* Slack: Join the [Envoy Slack workspace][] if you're not already a member. Otherwise, use the
+- Slack: Join the [Envoy Slack workspace][] if you're not already a member. Otherwise, use the
   [Envoy AI Gateway channel][] to start collaborating with the community.
 
 ## Get Involved
@@ -20,7 +21,6 @@ which includes information on how to build and test the project.
 ## Background
 
 The proposal of using Envoy Gateway as a [Cloud Native LLM Gateway][Cloud Native LLM Gateway] inspired the initiation of this project.
-
 
 [meeting]: https://docs.google.com/document/d/10e1sfsF-3G3Du5nBHGmLjXw5GVMqqCvFDqp_O65B0_w/edit?tab=t.0
 [Envoy Slack workspace]: https://communityinviter.com/apps/envoyproxy/envoy

@@ -111,6 +111,7 @@ require (
 	github.com/blang/semver/v4 v4.0.0 // indirect
 	github.com/blizzy78/varnamelen v0.8.0 // indirect
 	github.com/bmatcuk/doublestar/v2 v2.0.4 // indirect
+	github.com/bmatcuk/doublestar/v4 v4.8.1 // indirect
 	github.com/bombsimon/wsl/v4 v4.6.0 // indirect
 	github.com/breml/bidichk v0.3.3 // indirect
 	github.com/breml/errchkjson v0.4.1 // indirect
@@ -148,7 +149,7 @@ require (
 	github.com/docker/docker-credential-helpers v0.9.3 // indirect
 	github.com/dominikbraun/graph v0.23.0 // indirect
 	github.com/editorconfig-checker/editorconfig-checker/v3 v3.2.0 // indirect
-	github.com/editorconfig/editorconfig-core-go/v2 v2.6.2 // indirect
+	github.com/editorconfig/editorconfig-core-go/v2 v2.6.3 // indirect
 	github.com/elastic/crd-ref-docs v0.1.0 // indirect
 	github.com/emicklei/go-restful/v3 v3.12.1 // indirect
 	github.com/emirpasic/gods v1.18.1 // indirect
@@ -366,6 +367,7 @@ require (
 	github.com/telepresenceio/watchable v0.0.0-20220726211108-9bb86f92afa7 // indirect
 	github.com/tetafro/godot v1.5.0 // indirect
 	github.com/tetratelabs/func-e v1.1.5 // indirect
+	github.com/tetratelabs/wazero v1.9.0 // indirect
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/timakin/bodyclose v0.0.0-20241222091800-1db5c5ca4d67 // indirect
@@ -382,6 +384,7 @@ require (
 	github.com/uudashr/iface v1.3.1 // indirect
 	github.com/vbatts/tar-split v0.12.1 // indirect
 	github.com/vladopajic/go-test-coverage/v2 v2.11.4 // indirect
+	github.com/wasilibs/go-prettier/v3 v3.6.3-0.20250722021946-4076a6085a9e // indirect
 	github.com/x448/float16 v0.8.4 // indirect
 	github.com/xanzy/ssh-agent v0.3.3 // indirect
 	github.com/xeipuuv/gojsonpointer v0.0.0-20190905194746-02993c407bfb // indirect
@@ -470,6 +473,7 @@ tool (
 	github.com/golangci/golangci-lint/cmd/golangci-lint
 	github.com/tetratelabs/func-e
 	github.com/vladopajic/go-test-coverage/v2
+	github.com/wasilibs/go-prettier/v3/cmd/prettier
 	helm.sh/helm/v3/cmd/helm
 	mvdan.cc/gofumpt
 	sigs.k8s.io/controller-runtime/tools/setup-envtest
